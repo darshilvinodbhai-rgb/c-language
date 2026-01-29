@@ -14,7 +14,7 @@ int main() {
 	  	scanf("%d",&a[i][j]);
 	  	
 	  	if(i+j == row-1){
-	 	sum += a[i][j];
+	 	sum = sum + a[i][j];
 	    }
 	  }
 	}
