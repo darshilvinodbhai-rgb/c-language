@@ -41,10 +41,10 @@ int main() {
 			  }
 			  
 			  if(score<=100 && score>=40){
-			  	printf(" you are eligible for next level");
+			  	printf("\nyou are eligible for next level");
 			  }
 			  else{
-			  	printf(" please try again next time");
+			  	printf("\nplease try again next time");
 			  }
 		  	
 		  	
